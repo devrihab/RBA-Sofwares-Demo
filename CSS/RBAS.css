@@ -123,6 +123,9 @@
     transition: 0.1s all;
     font-size: x-small;
   }
+  #logo{ 
+    width: 20%;
+}
 }
 
 #menu-box{
